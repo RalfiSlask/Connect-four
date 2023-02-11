@@ -1,5 +1,5 @@
 
-![Hangman](./Hangman.png)
+![Hangman](./Connectfour.png)
 
 
 Built with
@@ -12,5 +12,4 @@ Built with
 Author
 
 - Frontend Mentor - @RalfiSlask
-- Github - https://github.com/RalfiSlask
 
